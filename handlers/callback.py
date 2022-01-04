@@ -73,7 +73,7 @@ Made with ❤️ **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "Source Code 📦", url="https://github.com/itsunknown-12/Zaid-Vc-Player"
+                        "Source Code 📦", url=""
                     )
                 ],
                 [
